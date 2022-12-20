@@ -1,0 +1,8 @@
+README.md
+setup.py
+my_server/__init__.py
+my_server/server.py
+my_server.egg-info/PKG-INFO
+my_server.egg-info/SOURCES.txt
+my_server.egg-info/dependency_links.txt
+my_server.egg-info/top_level.txt

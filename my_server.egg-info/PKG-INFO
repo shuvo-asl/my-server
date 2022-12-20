@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: my-server
+Version: 0.0.1
+Summary: A small python server package
+Home-page: https://github.com/shuvo-asl/my-server
+Author: MD Mehedi Hasan
+Author-email: shuvo@asl.aero
+License: MIT
+Description: health-indices
+        A unified collection of health indices and health indicators eg bmi,bai,corp index,etc
+        
+        Purpose of the Package
+        The purpose of the package is to provide a collection of all health indices in one unified libary
+        
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
